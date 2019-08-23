@@ -1,8 +1,6 @@
 import numpy as np
 import casv_predictor as cp
 
-
-
 # set model parameters
 arpu = 10.0
 cohort_r = 100
